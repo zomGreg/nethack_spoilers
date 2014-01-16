@@ -1,0 +1,8 @@
+*.swp
+*.idea/*
+_build/
+*.html
+!layout.html
+!_templates/*
+*DS_Store
+*.docx
